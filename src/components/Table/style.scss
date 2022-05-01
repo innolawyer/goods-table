@@ -1,0 +1,13 @@
+.minus-btn {
+    margin-right: 10px;
+  }
+  
+  .sum-container {
+    & h4 {
+      margin-bottom: 0;
+      margin-right: 10px;
+    }
+    display: flex;
+    align-items: center;
+  }
+  

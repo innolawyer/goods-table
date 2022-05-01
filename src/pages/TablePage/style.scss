@@ -1,0 +1,14 @@
+.container {
+    width: 980px;
+    height: 100vh;
+    border: 1px solid black;
+    margin: 0 auto;
+  }
+  
+  .details {
+    margin-bottom: 25px;
+    > *:first-child {
+      margin-right: 50px;
+    }
+  }
+  
